@@ -19,7 +19,7 @@ public class PlayerController : MonoBehaviour
         
     }
 
-    // Update is called once per frame
+    // Update is called once per frame, cool
     void Update()
     {
         // Keys management
